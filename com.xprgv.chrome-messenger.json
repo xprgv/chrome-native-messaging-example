@@ -1,0 +1,9 @@
+{
+    "name": "com.xprgv.messenger",
+    "description": "Chrome test native api messenger",
+    "path": "/home/open/personal/chrome-native-messaging-example/chrome-messenger",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/"
+    ]
+}
